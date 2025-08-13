@@ -6,4 +6,4 @@
 
 **dziwny i podejzany program w C#**
 
-**[Film na YT]() • [Strona WWW](https://debil.ovh/Projekty/czatujemy.html)**
+**[Film na YT](https://youtu.be/h9UWjkJYmrA) • [Strona WWW](https://debil.ovh/Projekty/2/)**
